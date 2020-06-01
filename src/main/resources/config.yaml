@@ -1,0 +1,7 @@
+http:
+  port: "8082"
+  
+sfdc:
+  username: 'vanthai_van@yahoo.com'
+  password: "Easter@00"
+  token: "ipRUvBU6sHdMsYwdREIWavKp4"
